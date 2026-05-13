@@ -1,0 +1,23 @@
+[
+  {
+    "com_ctgry_sn": "Co6c2n2",
+    "ctgry_nm": "Nature",
+    "ctgry_path": " Nature",
+    "ctgry_level": 1,
+    "sort_no": 6
+  },
+  {
+    "com_ctgry_sn": "Cu5u8d4",
+    "ctgry_nm": "Natural Sites(Mountains)",
+    "ctgry_path": " Nature > Natural Sites(Mountains)",
+    "ctgry_level": 2,
+    "sort_no": 1
+  },
+  {
+    "com_ctgry_sn": "Cw8j0y7",
+    "ctgry_nm": "Natural Sites(Rivers)",
+    "ctgry_path": " Nature > Natural Sites(Rivers)",
+    "ctgry_level": 2,
+    "sort_no": 2
+  }
+]
