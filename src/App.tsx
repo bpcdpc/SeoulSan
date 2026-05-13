@@ -1,5 +1,5 @@
 import "./App.css";
-import SeoulSan from "./component/SeoulSan";
+import SeoulSan from "./wrapper/SeoulSan";
 
 function App() {
   return <SeoulSan />;

@@ -1,0 +1,42 @@
+export default function Info() {
+  return (
+    <div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+      <div>상세정보</div>
+    </div>
+  );
+}
