@@ -11,10 +11,12 @@ export default function Map() {
       center={position}
       zoom={12}
       zoomControl={false}
+      scrollWheelZoom={false}
       className="h-full"
     >
       <ZoomButtons />
       <MyLocationButton />
+
       <TileLayer
         attribution="&copy; OpenStreetMap contributors"
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
